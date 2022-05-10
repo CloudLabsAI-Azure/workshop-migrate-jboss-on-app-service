@@ -49,12 +49,13 @@ First, we will need to update Service Principal so that our workflow can log int
 **Tip💡:** Proceed to cloudlabs details and click on service principle to get the details.
 ```
 
+**Note:** Replace the cliend id, client secret, subscription id, tenant id
+
 ![service principal](../img/5-service-principle.png)
 
 
 ```jsonc
 {
-   // replace the cliend id, client secret, subscription id, tenant id
   "clientId": "67b6cf14-0050-419b-a78e-d061e3a1394e",
   "clientSecret": "DTu._pEGE7LeU3ousQTGasSxwdBcxHP0U2-",
   "subscriptionId": "693eabcf-7fb7-4144-8da4-9ef27487ec90",
