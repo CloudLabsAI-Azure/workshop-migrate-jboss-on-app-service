@@ -25,10 +25,8 @@ In this exercise we will set up GitHub Actions workflows to build and deploy our
 
 
 ```bash
-
 echo $ASE_WEBAPP_NAME
 echo $RESOURCE_GROUP
-
 ```
 
 ## **TIP💡:** To know your Application gateway name
