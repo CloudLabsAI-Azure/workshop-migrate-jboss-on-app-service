@@ -1,6 +1,6 @@
 # 1 - Set up your environment
 
-This workshop uses GitPod to provide a pre-configured development environment with Java, JBoss, and the Red Hat VS Code extensions ready-to-go! This section will guide you through the process of setting up a GitPod account and workspace.
+This workshop uses GitPod to provide a pre-configured development environment with Java, JBoss, and the Red Hat VS Code extensions ready-to-go! This section will guide you through the process of setting up a GitPod account and project.
 
 ## 1.1 - GitPod Setup
 
@@ -16,6 +16,8 @@ This workshop uses GitPod to provide a pre-configured development environment wi
 4. Select the Project from the drop down menu.
 
     ![Select the project from the drop down menu](../img/select-the-project.png)
+
+> Make sure you select **New Project** at this point, and not **New Workspace**.
 
 5. Next, select **Authorize**
 
